@@ -1,9 +1,12 @@
 {
-  "name": "babel-plugin-transform-remove-log",
+  "name": "@cylerian/babel-plugin-transform-remove-log",
   "version": "0.1.0",
   "description": "Remove select log.* calls",
   "keywords": [
     "babel-plugin"
   ],
-  "main": "lib/index.js"
+  "main": "lib/index.js",
+  "scripts": {
+    "test": ""
+  }
 }
